@@ -1,0 +1,2 @@
+file vgg19_classifier.pth is get from this link
+https://github.com/choniyuazwan/flower-classifier/blob/master/vgg19_classifier.pth
